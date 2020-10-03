@@ -1,2 +1,1 @@
-# Capstone
-My bachelor tesis
+
