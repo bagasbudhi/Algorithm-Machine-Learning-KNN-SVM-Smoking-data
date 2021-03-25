@@ -1,7 +1,7 @@
-# 3 oktober 2020 Goggle Collab Data Smoking
+## 3rd October 2020, Goggle Colab Smoker Data
 
 ### Analyze clean data using SVM, KNN, and Logistic Regression and Decision Tree
 
 Bagas Budhi Permana
 
-Dikerjakan menggunakan notebook dari Goggle Colab
+Done using a notebook from Google Colab
